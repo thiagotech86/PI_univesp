@@ -290,6 +290,13 @@ function clicou12(){
 
 }
 
+//Teste commit
+
+function clicou12(){
+    document.getElementById('respingo').innerHTML=document.getElementById('selecionar12').value;
+
+}
+
 //Gerar PDF
 function gerarpdf(){
     const item = document.querySelector('.page');
