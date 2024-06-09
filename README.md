@@ -1,1 +1,1 @@
-Acesso ai sistema : Login = admin ; senha = admin
+Acesso ao sistema : Login = admin ; Senha = admin
